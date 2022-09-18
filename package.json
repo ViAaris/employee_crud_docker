@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap": "5.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router": "^6.3.0",
+    "reactstrap": "^9.1.1"
+<<<<<<< HEAD
+  },
+  "proxy": "http://localhost:8080/"
+=======
+  }
+>>>>>>> cee6b41 (add react)
+}
